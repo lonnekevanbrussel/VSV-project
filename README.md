@@ -1,2 +1,2 @@
 # VSV-project
-(Re)developing a webportal for VSV for customer resource, locations and reports
+(Re)developed a webportal for VSV with customer resource, locations and a report module
