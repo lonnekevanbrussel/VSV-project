@@ -2,20 +2,26 @@
 (Re)developed a webportal for Veiligesportvloer with customer resource, locations and a report module. <br />
 [https://www.sportvloermanager365.nl/](https://www.sportvloermanager365.nl/)
 
-#### code snippets
-Some code snippets can be found in snippets folder 
+#### Used scripting languages and technologies
+PHP 5.3, <br />
+mySQL database, <br /> 
+javascript/JQuery, <br /> 
+HTML/CSS, <br />
+WkhtmltoPDF, <br />
+Vue.js / amcharts
 
-#### Images
-Images of the portal and report module. <br />
+#### code snippets in snippets folder 
+
+#### Examples of the portal and report module. <br />
 _private information is sensored_ 
 
-Home page of VSV portal for admins of different companies and customers
+Home page of VSV portal with login system for admins (3 companies) and (shared) customers
 ![screenshot](images/vsv_portal_example01.jpg)
 
 Search options and editable content for customers, locations, reports
 ![screenshot](images/vsv_portal_example03.jpg)
 
-Mail options for several content (here: Offerte)
+Mail options (here: Offerte)
 ![screenshot](images/vsv_portal_example02.jpg)
 
 Report module for inspectors to insert and update location and report details
