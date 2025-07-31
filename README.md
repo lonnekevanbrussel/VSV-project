@@ -5,7 +5,8 @@
 Some code snippets can be found in snippets folder 
 
 #### Images
-Images of the portal and report module
+Images of the portal and report module. <br />
+_private information is sensored_ 
 
 Home page of VSV portal for admins of different companies and customers
 ![screenshot](images/vsv_portal_example01.jpg)
