@@ -5,7 +5,7 @@
 #### Used scripting languages and technologies
 PHP 5.3, <br />
 mySQL database, <br /> 
-javascript/JQuery, <br /> 
+javascript/JQuery(UI), <br /> 
 HTML/CSS, <br />
 WkhtmltoPDF, <br />
 Vue.js / amcharts
