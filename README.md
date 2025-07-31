@@ -13,10 +13,10 @@ Home page of VSV portal for admins of different companies and customers
 Search options and editable content for customers, locations, reports
 ![screenshot](images/vsv_portal_example03.jpg)
 
-Send options for several content (here: Offerte)
+Mail options for several content (here: Offerte)
 ![screenshot](images/vsv_portal_example02.jpg)
 
-Report module for inspectors to import location and report details
+Report module for inspectors to insert and update location and report details
 ![screenshot](images/vsv_rapportage_example01.jpg)
 
 ![screenshot](images/vsv_rapportage_example02.jpg)
