@@ -75,22 +75,12 @@ class PDF{
 				$this->__sHTML_Content .= $this->getKeurpunten(); //4
 			}
 			$measurements = explode(',',$this->__rapport['measurements']);
-			if(in_array("A",$measurements)) $this->__sHTML_Content .= $this->getMeasurementA("A");
-			if(in_array("E",$measurements)) $this->__sHTML_Content .= $this->getMeasurementE("E");
-			if(in_array("B",$measurements)) $this->__sHTML_Content .= $this->getMeasurementB("B");
-			if(in_array("D",$measurements)) $this->__sHTML_Content .= $this->getMeasurementD("D");
-			if(in_array("C",$measurements)) $this->__sHTML_Content .= $this->getMeasurementC("C");
-			if(in_array("F",$measurements)) $this->__sHTML_Content .= $this->getMeasurementF("F");
 			if(in_array("OA",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOAGH("OA");
 			if(in_array("OB",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOBEC("OB");
 			if(in_array("OE",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOBEC("OE");
 			if(in_array("OC",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOBEC("OC");
-			if(in_array("OD",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOD("OD");
-			if(in_array("OF",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOF("OF");
 			if(in_array("OG",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOAGH("OG");
 			if(in_array("OH",$measurements)) $this->__sHTML_Content .= $this->getMeasurementOAGH("OH");
-			if(in_array("G",$measurements)) $this->__sHTML_Content .= $this->getMeasurementG("G");
-			if(in_array("OI",$measurements)) $this->__sHTML_Content .= $this->getMeasurementG("OI");
 			$this->__sHTML_Content .= $this->getDammages(); 
 			$this->__sHTML_Content .= $this->getConclusion(); 
 			if ($this->__inspection != 'short')
@@ -581,3 +571,4 @@ www.sportvloermanager365.nl<br /><br />';
 }
 
 ?>
+
