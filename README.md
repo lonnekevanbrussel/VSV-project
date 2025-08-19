@@ -8,7 +8,7 @@ mySQL database, <br />
 javascript/JQuery(UI), <br /> 
 HTML/CSS, <br />
 WkhtmltoPDF, <br />
-Vue.js / amcharts
+Vue.js / amcharts / google maps API
 
 #### code snippets in snippets folder 
 
@@ -23,6 +23,9 @@ Search options and editable content for customers, locations, reports
 
 Mail options (here: Offerte)
 ![screenshot](images/vsv_portal_example02.jpg)
+
+Google maps API
+![screenshot](images/vsv_portal_example04.jpg)
 
 Report module for inspectors to insert and update location and report details
 ![screenshot](images/vsv_rapportage_example01.jpg)
