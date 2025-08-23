@@ -1,14 +1,16 @@
 # VSV-project
-(Re)developed a webportal for Veiligesportvloer with customer resource, locations and a report module. <br />
+(Re)developed a webportal for Veiligesportvloer with customer resource, locations, offerte and a report module. <br />
 [https://www.sportvloermanager365.nl/](https://www.sportvloermanager365.nl/)
 
 #### Used scripting languages and technologies
 PHP 5.3, <br />
 mySQL database, <br /> 
-javascript/JQuery(UI), <br /> 
 HTML/CSS, <br />
-WkhtmltoPDF, <br />
+javascript/JQuery(UI), <br /> 
 Vue.js / amcharts / google maps API
+WkhtmltoPDF, <br />
+PHPExcel, <br />
+AmazonSimpleEmailService, <br />
 
 #### code snippets in snippets folder 
 
