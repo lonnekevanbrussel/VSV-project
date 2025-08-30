@@ -6,7 +6,7 @@
 PHP 5.3, <br />
 mySQL database, <br /> 
 HTML/CSS, <br />
-javascript/JQuery(UI), <br /> 
+javascript/JQuery, <br /> 
 Vue.js / amcharts / google maps API
 WkhtmltoPDF, <br />
 PHPExcel, <br />
